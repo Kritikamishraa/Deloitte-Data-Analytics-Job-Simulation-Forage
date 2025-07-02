@@ -121,4 +121,4 @@ This logic ensures both underpaying and overpaying inequalities are treated equa
 ## 📢 Author
 
 **Kritika Mishra**
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kritika-mishra-578574317/)) or reach out for collaboration opportunities!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kritika-mishra-578574317/) or reach out for collaboration opportunities!
